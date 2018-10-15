@@ -1,0 +1,7 @@
+psycopg2
+nltk
+gensim
+numpy
+cuda92
+pytorch
+torch
